@@ -4,6 +4,7 @@ This programm has maded in C and i used DevCPP to compile the code,this programm
 
 # How 2 Use?
 
+### Go into the directory you want to use the csc.exe and execute it
 ```console
 csc.exe 
 ```
